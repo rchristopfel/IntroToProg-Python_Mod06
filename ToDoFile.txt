@@ -1,0 +1,5 @@
+sleep,low
+study,high
+work,high
+feed kids,high
+exercise,high
